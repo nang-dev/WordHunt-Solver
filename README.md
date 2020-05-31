@@ -13,7 +13,7 @@ It implements DFS and a Trie data structure to compute a list of all the optimum
 
 1. [Download](https://github.com/nang149/WordHunt-Solver/archive/master.zip) the Github Repository
 
-2. For Windows: Simply double click "runwindows.exe"
+2. For Windows: Simply double click "runwindows.exe" /
 For Mac: double click "runmac.command"
 
 3. Input in the board from left to right:
