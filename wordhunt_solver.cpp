@@ -182,5 +182,7 @@ int main()
     time_t end_time = chrono::system_clock::to_time_t(end);
 
     cout << "Elapsed Time: " << elapsed_seconds.count() << "s\n";
+
+    system("pause");
               
 }
